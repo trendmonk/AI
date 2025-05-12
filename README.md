@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="image.png" alt="TrendMonk AI Banner" />
-</p>
-
 # 🧠 TrendMonk AI  
 **An Autonomous Multi-Agent AI Network for Solana Memecoin Discovery & Decision-Making**
 
@@ -52,3 +48,8 @@ SO-7A --> NLP-X9
 W3-G1 --> X0-R8
 NLP-X9 --> X0-R8
 X0-R8 --> H[TrendMonk Core]
+
+
+<p align="center">
+  <img src="image.png" alt="TrendMonk AI Banner" />
+</p>
